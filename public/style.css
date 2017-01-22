@@ -41,15 +41,14 @@ section {
 #hero {
     margin: 0;
     padding: 0;
-    /*background-image: url(https://images.unsplash.com/photo-1434064511983-18c6dae20ed5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=5f29d037842c14cb81cddea387221b20);*/
-    background-image: url(    http://dnd.wizards.com/sites/default/files/media/styles/second_hubpage_banner/public/images/head-banner/NEW-TO-DnD_What-is-DnD_Subsection_Hero_140718.jpg?itok=5pBlzVTc);
+    background-image: url("background.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     height: 130vh;
     width: 100vw;
-    color: black;
+    color: white;
 }
 
 #hero-title {
