@@ -145,7 +145,6 @@ body {
   height: 25px;
   z-index: 100;
   right: 5%;
-  mix-blend-mode: difference;
   background: transparent;
   top: 5%;
   cursor: pointer;
